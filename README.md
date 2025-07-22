@@ -38,7 +38,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-Liquidity Chain
+
+
+
+
+
+Liquidity Chain 
 
 Liquidity Chain – A decentralized platform to empower youth with skills, mentorship, and tokenized economic access.
 
